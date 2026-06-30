@@ -21,8 +21,4 @@ KEY INSIGHTS
 
 1. Electronics is the top-performing category by revenue
 2. The North region generates the most revenue
-3. 2025-12 was the strongest month - consistent with holiday-season lift
-
-795    501.685800
-796    803.545216
-Name: Monetary, Length: 797, dtype: float64 of total revenue
+3. 2025-12 was the strongest month - consistent with holiday-seasons
